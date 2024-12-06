@@ -1,3 +1,4 @@
+imghdr
 asyncio
 aiohttp
 beautifulsoup4
